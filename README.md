@@ -111,7 +111,6 @@ Through these projects, I gained practical experience in:
 **Building complete ML projects from data preprocessing to prediction**
 
 ---
-
 # Internship
 
 These projects were developed as part of my **CodSoft Machine Learning Internship**.
