@@ -19,8 +19,6 @@ Built using **Python, Scikit-learn, and TensorFlow**.
 A text classification project that predicts the genre of a movie based on its plot description.
 
 **Implementation:**
-
-
 **TF-IDF** was used to convert text into numerical features.
 
 **Logistic Regression** was trained for genre classification.
