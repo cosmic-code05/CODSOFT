@@ -1,5 +1,4 @@
 # CODSOFT
-
 Machine Learning Internship Projects completed as part of the **CodSoft Machine Learning Internship**.
 
 I built these projects to gain practical experience in **Machine Learning, Natural Language Processing, text classification, and Deep Learning**. Through the internship, I strengthened my understanding of data preprocessing, feature extraction, model training, evaluation, and neural network based sequence modeling.
