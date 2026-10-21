@@ -9,6 +9,7 @@ This repository contains three projects:
 2. **Spam SMS Detection**
 3. **Handwritten Text Generation using LSTM**
 
+
 Built using **Python, Scikit-learn, and TensorFlow**.
 ---
 # Projects Overview
